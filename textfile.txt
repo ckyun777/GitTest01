@@ -1,0 +1,5 @@
+<github> 연동
+
+new 사용해서
+Repository name(puplic)
+
